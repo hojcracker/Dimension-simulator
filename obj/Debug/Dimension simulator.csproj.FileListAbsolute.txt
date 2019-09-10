@@ -1,0 +1,12 @@
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\bin\Debug\Dimension simulator.exe.config
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\bin\Debug\Dimension simulator.exe
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\bin\Debug\Dimension simulator.pdb
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension simulator.csprojAssemblyReference.cache
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension_simulator.Form1.resources
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension_simulator.Properties.Resources.resources
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension simulator.csproj.GenerateResource.cache
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension simulator.csproj.CoreCompileInputs.cache
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension simulator.csproj.CopyComplete
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension simulator.exe
+C:\Users\lenon\source\repos\Dimension simulator\Dimension simulator\obj\Debug\Dimension simulator.pdb
